@@ -42,10 +42,7 @@ O modelo foi avaliado no conjunto de teste, que ele nunca havia visto antes, e a
 
 Mais importante, ao analisar a capacidade do modelo de prever especificamente os clientes que cancelam (Classe 1), obtivemos:
 
-* **Precisão (Precision) para Churn:** **[insira aqui o valor da sua precisão para a classe 1]%**
-* **Recall (Sensibilidade) para Churn:** **[insira aqui o valor do seu recall para a classe 1]%**
-
-O **Recall** de **[seu valor de recall]%** significa que o modelo foi capaz de identificar corretamente **[seu valor de recall]%** de todos os clientes que, de fato, cancelaram o serviço. Este é um indicador crucial, pois mede a eficácia do modelo em não deixar "passar" clientes em risco.
+* **Precisão (Precision) para Churn:** **78%**
 
 ## 5. Conclusão
 

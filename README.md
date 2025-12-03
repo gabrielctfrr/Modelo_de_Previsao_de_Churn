@@ -1,3 +1,9 @@
+*Projeto sendo refeito*
+Não estava feliz com o resultado obtido por esse projeto, então resolvi refazer, usando a metodologia CRISP-DM, respeitando  todas as etapas. 
+
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+
+
 # Projeto de Previsão de Churn (Cancelamento de Clientes)
 
 Este projeto de Data Science tem como objetivo construir um modelo de Machine Learning para prever quais clientes de uma empresa de telecomunicações estão mais propensos a cancelar seus serviços (churn).
